@@ -1,0 +1,29 @@
+.panel{
+    background-color:aliceblue;
+    height: 100vh;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+.panel-control{
+    padding: 10px 5px;
+}
+.panel-content{
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+    align-items: start;
+}
+.icons{
+    margin-right: 5px;
+    color: black;
+}
+.txt{
+    color: black;
+}
+.item{
+   
+}
+.link{
+    text-align: center;
+}
